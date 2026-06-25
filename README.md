@@ -281,20 +281,6 @@ git push origin feature-name
 
 ---
 
-# 👨‍💻 Author
-
-**Harsha M B**
-
-- 🎓 Information Science & Engineering Student
-- 💻 Passionate about AI, Machine Learning & Full Stack Development
-
-GitHub:
-https://github.com/YOUR_USERNAME
-
-LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
-
----
 
 # 📜 License
 
