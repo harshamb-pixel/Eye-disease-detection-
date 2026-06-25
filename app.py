@@ -6,7 +6,8 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Use legacy Keras deserialization for older HDF5 models.
-os.environ.setdefault("TF_USE_LEGACY_KERAS", "1")
+# os.environ.setdefault("TF_USE_LEGACY_KERAS", "1")
+# os.environ.setdefault("TF_USE_LEGACY_KERAS", "1")
 
 import tensorflow as tf
 from tensorflow.keras.applications.mobilenet_v3 import preprocess_input
